@@ -1,0 +1,12 @@
+{
+	"block.warbears.fish_drying_rack": "Fish Drying Rack",
+
+	"item.warbears.war_bear_spawn_egg": "War Bear Spawn Egg",
+
+	"entity.warbears.war_bear": "War Bear",
+
+	"itemGroup.dv_blocks": "War Bears Blocks",
+	"itemGroup.dv_tools": "War Bears Tools",
+	"itemGroup.dv_armor": "War Bears Armor",
+	"itemGroup.dv_items": "War Bears Items"
+}

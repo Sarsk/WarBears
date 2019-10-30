@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SFS",
+    "FSF",
+    "SFS"
+  ],
+  "key": {
+    "F": [
+      {
+        "item": "minecraft:salmon"
+      }
+    ],
+    "S": [
+      {
+        "item": "minecraft:stick"
+      }
+    ]
+  },
+  "result": {
+    "item": "dwarvenvillages:fish_drying_rack"
+  }
+}

@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[28,)"
+[[mods]]
+modId="warbears"
+version="${file.jarVersion}"
+displayName="War Bears"
+logoFile="logo.png"
+credits="Everyone at the Good Night Sleep's mod, for their great source code, and my wife, for leading us on fun adventures in Minecraft!"
+authors="Sarsk"
+description='''
+The War Bears mod adds tameable bears, and bear villages.
+'''
+[[dependencies.warbears]] #optional
+    modId="forge"
+    mandatory=true
+    versionRange="[28,)"
+    ordering="NONE"
+    side="BOTH"
+# Here's another dependency
+[[dependencies.warbears]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.14.4]"
+    ordering="NONE"
+    side="BOTH"

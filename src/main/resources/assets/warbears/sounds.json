@@ -1,0 +1,20 @@
+{
+  "music.good_dream": {
+    "category": "music",
+    "sounds":[
+      {
+        "name": "goodnightsleep:music/good_dream",
+        "stream": true
+      }
+    ]
+  },
+  "music.tfarcenim": {
+    "category": "music",
+    "sounds":[
+      {
+        "name": "goodnightsleep:music/tfarcenim",
+        "stream": true
+      }
+    ]
+  }
+}
